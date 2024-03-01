@@ -39,6 +39,6 @@ pip install -r requirements.txt
 
 
 ## Export the environment variable
-`
+```
 export MONGODB_URL="mongodb+srv://<username>:<password>...."
-`
+```
