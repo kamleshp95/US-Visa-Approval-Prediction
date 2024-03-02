@@ -14,7 +14,6 @@ git commit -m "Updated"
 git push origin main
 ```
 
-
 ## How to run?
 
 ```
@@ -37,7 +36,6 @@ pip install -r requirements.txt
 4. component
 5. pipeline
 6. app.py / demo.py
-
 
 ## Export the environment variable
 
